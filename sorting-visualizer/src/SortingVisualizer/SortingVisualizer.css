@@ -1,0 +1,46 @@
+.array-container {
+    position: absolute;
+    left: 100px;
+    bottom: 1px;
+}
+
+.array-bar {
+    width: 2px;
+    background-color: white;
+    display: inline-block;
+    margin: 0 1px;
+}
+
+body {
+    background-color: white;
+}
+
+.generateArray {
+    position: absolute;
+    left: -70px;
+    top: -30px;
+}
+
+.bubbleSort {
+    position: absolute;
+    left: 1053px;
+    top: -30px;
+}
+
+.mergeSort {
+    position: absolute;
+    left: 1143px;
+    top: -30px;
+}
+
+.quickSort {
+    position: absolute;
+    left: 1230px;
+    top: -30px;
+}
+
+.heapSort {
+    position: absolute;
+    right: -70px;
+    top: -30px;
+}
